@@ -9,7 +9,6 @@ namespace PZ_3
         static void Main(string[] args)
         {
             int sizeRoot = 5;
-
             Node root = new Node();
             BynaryTree tree = new BynaryTree(sizeRoot);
             root = tree.Root;
