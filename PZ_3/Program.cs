@@ -8,7 +8,6 @@ namespace PZ_3
     {
         static void Main(string[] args)
         {
-            int trueRoot = 0;
             int sizeRoot = 5;
 
             Node root = new Node();
