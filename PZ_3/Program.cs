@@ -12,7 +12,6 @@ namespace PZ_3
             Node root = new Node();
             BynaryTree tree = new BynaryTree(sizeRoot);
             root = tree.Root;
-
             Console.WriteLine("Все значения древа: ");
             BynaryTree.GetTreeData(tree.Root);
 
