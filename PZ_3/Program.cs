@@ -14,7 +14,6 @@ namespace PZ_3
             root = tree.Root;
             Console.WriteLine("Все значения древа: ");
             BynaryTree.GetTreeData(tree.Root);
-
             //Задание 1
             Console.WriteLine("Среднее значение древа: " + Math.Round(root.GetAverage(sizeRoot), 0));
             //Задание 2
