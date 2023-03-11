@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deikstra", "Deikstra\Deikst
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_3", "PZ_3\PZ_3.csproj", "{CA5FEDDD-4520-4BC3-AF87-E9BBE8A8EDFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_4", "PZ_4\PZ_4.csproj", "{DA39CD2D-D87D-42C5-81E8-AC5830902BC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CA5FEDDD-4520-4BC3-AF87-E9BBE8A8EDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA5FEDDD-4520-4BC3-AF87-E9BBE8A8EDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA5FEDDD-4520-4BC3-AF87-E9BBE8A8EDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA39CD2D-D87D-42C5-81E8-AC5830902BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA39CD2D-D87D-42C5-81E8-AC5830902BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA39CD2D-D87D-42C5-81E8-AC5830902BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA39CD2D-D87D-42C5-81E8-AC5830902BC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
