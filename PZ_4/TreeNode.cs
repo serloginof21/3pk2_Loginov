@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PZ_4
 {
-    internal class Node
+    public class Node
     {
         public class DTreeNode
         {
