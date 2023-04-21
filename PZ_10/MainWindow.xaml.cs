@@ -37,6 +37,7 @@ namespace PZ_10
             {
                 st.Add(save);
                 cntsF--;
+
                 MessageBox.Show($"Сохранение: {st.Count}");
             }
             else
@@ -44,6 +45,7 @@ namespace PZ_10
                 st = new List<NotePadStatus>();
                 cntsF = 4;
                 st.Add(save);
+
                 MessageBox.Show($"Сохранение: {st.Count}");
             }
             await Task.Delay(TimeSpan.FromSeconds(5));
